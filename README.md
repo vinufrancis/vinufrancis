@@ -3,7 +3,7 @@
 Computer Engineer 
 - 🌱 Completed Full Stack Development Course in PHP Intern at SCOPE INDIA,Trivandrum.T
 <img align="right" width="370" height="290" src="https://raw.githubusercontent.com/kvssankar/kvssankar/main/programmer.gif">
-- 🌱 Here's my [portfolio](https://hareesh.web.app/)                                                 
+                                               
 - 🌱 I’m currently learning Coding
 
 <br />
